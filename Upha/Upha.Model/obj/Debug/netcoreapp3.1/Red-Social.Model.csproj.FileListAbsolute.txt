@@ -1,0 +1,48 @@
+C:\Users\PedroMigueldelaCruzC\source\repos\Red-Social\Red-Social.Model\bin\Debug\netcoreapp3.1\Red-Social.Model.deps.json
+C:\Users\PedroMigueldelaCruzC\source\repos\Red-Social\Red-Social.Model\bin\Debug\netcoreapp3.1\Red-Social.Model.runtimeconfig.json
+C:\Users\PedroMigueldelaCruzC\source\repos\Red-Social\Red-Social.Model\bin\Debug\netcoreapp3.1\Red-Social.Model.runtimeconfig.dev.json
+C:\Users\PedroMigueldelaCruzC\source\repos\Red-Social\Red-Social.Model\bin\Debug\netcoreapp3.1\Red-Social.Model.dll
+C:\Users\PedroMigueldelaCruzC\source\repos\Red-Social\Red-Social.Model\bin\Debug\netcoreapp3.1\Red-Social.Model.pdb
+C:\Users\PedroMigueldelaCruzC\source\repos\Red-Social\Red-Social.Model\obj\Debug\netcoreapp3.1\Red-Social.Model.AssemblyInfoInputs.cache
+C:\Users\PedroMigueldelaCruzC\source\repos\Red-Social\Red-Social.Model\obj\Debug\netcoreapp3.1\Red-Social.Model.AssemblyInfo.cs
+C:\Users\PedroMigueldelaCruzC\source\repos\Red-Social\Red-Social.Model\obj\Debug\netcoreapp3.1\Red-Social.Model.csproj.CoreCompileInputs.cache
+C:\Users\PedroMigueldelaCruzC\source\repos\Red-Social\Red-Social.Model\obj\Debug\netcoreapp3.1\Red-Social.Model.dll
+C:\Users\PedroMigueldelaCruzC\source\repos\Red-Social\Red-Social.Model\obj\Debug\netcoreapp3.1\Red-Social.Model.pdb
+C:\Users\PedroMigueldelaCruzC\source\repos\Red-Social\Red-Social.Model\obj\Debug\netcoreapp3.1\Red-Social.Model.genruntimeconfig.cache
+C:\Users\PedroMigueldelaCruzC\source\repos\Red-Social\Red-Social.Model\obj\Debug\netcoreapp3.1\Red-Social.Model.csproj.AssemblyReference.cache
+C:\Users\PedroMigueldelaCruzC\Desktop\Red-Social\Red-Social.Model\bin\Debug\netcoreapp3.1\Red-Social.Model.deps.json
+C:\Users\PedroMigueldelaCruzC\Desktop\Red-Social\Red-Social.Model\bin\Debug\netcoreapp3.1\Red-Social.Model.runtimeconfig.json
+C:\Users\PedroMigueldelaCruzC\Desktop\Red-Social\Red-Social.Model\bin\Debug\netcoreapp3.1\Red-Social.Model.runtimeconfig.dev.json
+C:\Users\PedroMigueldelaCruzC\Desktop\Red-Social\Red-Social.Model\bin\Debug\netcoreapp3.1\Red-Social.Model.dll
+C:\Users\PedroMigueldelaCruzC\Desktop\Red-Social\Red-Social.Model\bin\Debug\netcoreapp3.1\Red-Social.Model.pdb
+C:\Users\PedroMigueldelaCruzC\Desktop\Red-Social\Red-Social.Model\obj\Debug\netcoreapp3.1\Red-Social.Model.AssemblyInfoInputs.cache
+C:\Users\PedroMigueldelaCruzC\Desktop\Red-Social\Red-Social.Model\obj\Debug\netcoreapp3.1\Red-Social.Model.AssemblyInfo.cs
+C:\Users\PedroMigueldelaCruzC\Desktop\Red-Social\Red-Social.Model\obj\Debug\netcoreapp3.1\Red-Social.Model.csproj.CoreCompileInputs.cache
+C:\Users\PedroMigueldelaCruzC\Desktop\Red-Social\Red-Social.Model\obj\Debug\netcoreapp3.1\Red-Social.Model.dll
+C:\Users\PedroMigueldelaCruzC\Desktop\Red-Social\Red-Social.Model\obj\Debug\netcoreapp3.1\Red-Social.Model.pdb
+C:\Users\PedroMigueldelaCruzC\Desktop\Red-Social\Red-Social.Model\obj\Debug\netcoreapp3.1\Red-Social.Model.genruntimeconfig.cache
+C:\Users\PedroMigueldelaCruzC\Desktop\Red-Social\Red-Social.Model\obj\Debug\netcoreapp3.1\Red-Social.Model.csproj.AssemblyReference.cache
+C:\Users\PedroMigueldelaCruzC\Desktop\Prueba Claro\Escuelita\Red-Social.Model\obj\Debug\netcoreapp3.1\Red-Social.Model.AssemblyInfoInputs.cache
+C:\Users\PedroMigueldelaCruzC\Desktop\Prueba Claro\Escuelita\Red-Social.Model\obj\Debug\netcoreapp3.1\Red-Social.Model.AssemblyInfo.cs
+C:\Users\PedroMigueldelaCruzC\Desktop\Prueba Claro\Escuelita\Red-Social.Model\obj\Debug\netcoreapp3.1\Red-Social.Model.csproj.CoreCompileInputs.cache
+C:\Users\PedroMigueldelaCruzC\Desktop\Prueba Claro\Escuelita\Red-Social.Model\obj\Debug\netcoreapp3.1\Red-Social.Model.dll
+C:\Users\PedroMigueldelaCruzC\Desktop\Prueba Claro\Escuelita\Red-Social.Model\obj\Debug\netcoreapp3.1\Red-Social.Model.pdb
+C:\Users\PedroMigueldelaCruzC\Desktop\Prueba Claro\Escuelita\Red-Social.Model\bin\Debug\netcoreapp3.1\Red-Social.Model.deps.json
+C:\Users\PedroMigueldelaCruzC\Desktop\Prueba Claro\Escuelita\Red-Social.Model\bin\Debug\netcoreapp3.1\Red-Social.Model.runtimeconfig.json
+C:\Users\PedroMigueldelaCruzC\Desktop\Prueba Claro\Escuelita\Red-Social.Model\bin\Debug\netcoreapp3.1\Red-Social.Model.runtimeconfig.dev.json
+C:\Users\PedroMigueldelaCruzC\Desktop\Prueba Claro\Escuelita\Red-Social.Model\bin\Debug\netcoreapp3.1\Red-Social.Model.dll
+C:\Users\PedroMigueldelaCruzC\Desktop\Prueba Claro\Escuelita\Red-Social.Model\bin\Debug\netcoreapp3.1\Red-Social.Model.pdb
+C:\Users\PedroMigueldelaCruzC\Desktop\Prueba Claro\Escuelita\Red-Social.Model\obj\Debug\netcoreapp3.1\Red-Social.Model.genruntimeconfig.cache
+C:\Users\PedroMigueldelaCruzC\Desktop\Prueba Claro\Escuelita\Red-Social.Model\obj\Debug\netcoreapp3.1\Red-Social.Model.csproj.AssemblyReference.cache
+C:\Users\PedroMigueldelaCruzC\Desktop\Claro\Escuelita\Red-Social.Model\bin\Debug\netcoreapp3.1\Red-Social.Model.deps.json
+C:\Users\PedroMigueldelaCruzC\Desktop\Claro\Escuelita\Red-Social.Model\bin\Debug\netcoreapp3.1\Red-Social.Model.runtimeconfig.json
+C:\Users\PedroMigueldelaCruzC\Desktop\Claro\Escuelita\Red-Social.Model\bin\Debug\netcoreapp3.1\Red-Social.Model.runtimeconfig.dev.json
+C:\Users\PedroMigueldelaCruzC\Desktop\Claro\Escuelita\Red-Social.Model\bin\Debug\netcoreapp3.1\Red-Social.Model.dll
+C:\Users\PedroMigueldelaCruzC\Desktop\Claro\Escuelita\Red-Social.Model\bin\Debug\netcoreapp3.1\Red-Social.Model.pdb
+C:\Users\PedroMigueldelaCruzC\Desktop\Claro\Escuelita\Red-Social.Model\obj\Debug\netcoreapp3.1\Red-Social.Model.csproj.AssemblyReference.cache
+C:\Users\PedroMigueldelaCruzC\Desktop\Claro\Escuelita\Red-Social.Model\obj\Debug\netcoreapp3.1\Red-Social.Model.AssemblyInfoInputs.cache
+C:\Users\PedroMigueldelaCruzC\Desktop\Claro\Escuelita\Red-Social.Model\obj\Debug\netcoreapp3.1\Red-Social.Model.AssemblyInfo.cs
+C:\Users\PedroMigueldelaCruzC\Desktop\Claro\Escuelita\Red-Social.Model\obj\Debug\netcoreapp3.1\Red-Social.Model.csproj.CoreCompileInputs.cache
+C:\Users\PedroMigueldelaCruzC\Desktop\Claro\Escuelita\Red-Social.Model\obj\Debug\netcoreapp3.1\Red-Social.Model.dll
+C:\Users\PedroMigueldelaCruzC\Desktop\Claro\Escuelita\Red-Social.Model\obj\Debug\netcoreapp3.1\Red-Social.Model.pdb
+C:\Users\PedroMigueldelaCruzC\Desktop\Claro\Escuelita\Red-Social.Model\obj\Debug\netcoreapp3.1\Red-Social.Model.genruntimeconfig.cache

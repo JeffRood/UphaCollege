@@ -1,0 +1,54 @@
+C:\Users\PedroMigueldelaCruzC\source\repos\Red-Social\Red-Social.Services\bin\Debug\netcoreapp3.1\Red-Social.Services.deps.json
+C:\Users\PedroMigueldelaCruzC\source\repos\Red-Social\Red-Social.Services\bin\Debug\netcoreapp3.1\Red-Social.Services.dll
+C:\Users\PedroMigueldelaCruzC\source\repos\Red-Social\Red-Social.Services\bin\Debug\netcoreapp3.1\Red-Social.Services.pdb
+C:\Users\PedroMigueldelaCruzC\source\repos\Red-Social\Red-Social.Services\bin\Debug\netcoreapp3.1\Red-Social.Model.dll
+C:\Users\PedroMigueldelaCruzC\source\repos\Red-Social\Red-Social.Services\bin\Debug\netcoreapp3.1\Red-Social.Repository.dll
+C:\Users\PedroMigueldelaCruzC\source\repos\Red-Social\Red-Social.Services\bin\Debug\netcoreapp3.1\Red-Social.Repository.pdb
+C:\Users\PedroMigueldelaCruzC\source\repos\Red-Social\Red-Social.Services\bin\Debug\netcoreapp3.1\Red-Social.Model.pdb
+C:\Users\PedroMigueldelaCruzC\source\repos\Red-Social\Red-Social.Services\obj\Debug\netcoreapp3.1\Red-Social.Services.csproj.AssemblyReference.cache
+C:\Users\PedroMigueldelaCruzC\source\repos\Red-Social\Red-Social.Services\obj\Debug\netcoreapp3.1\Red-Social.Services.AssemblyInfoInputs.cache
+C:\Users\PedroMigueldelaCruzC\source\repos\Red-Social\Red-Social.Services\obj\Debug\netcoreapp3.1\Red-Social.Services.AssemblyInfo.cs
+C:\Users\PedroMigueldelaCruzC\source\repos\Red-Social\Red-Social.Services\obj\Debug\netcoreapp3.1\Red-Social.Services.csproj.CoreCompileInputs.cache
+C:\Users\PedroMigueldelaCruzC\source\repos\Red-Social\Red-Social.Services\obj\Debug\netcoreapp3.1\Red-Social.Services.csproj.CopyComplete
+C:\Users\PedroMigueldelaCruzC\source\repos\Red-Social\Red-Social.Services\obj\Debug\netcoreapp3.1\Red-Social.Services.dll
+C:\Users\PedroMigueldelaCruzC\source\repos\Red-Social\Red-Social.Services\obj\Debug\netcoreapp3.1\Red-Social.Services.pdb
+C:\Users\PedroMigueldelaCruzC\Desktop\Red-Social\Red-Social.Services\bin\Debug\netcoreapp3.1\Red-Social.Services.deps.json
+C:\Users\PedroMigueldelaCruzC\Desktop\Red-Social\Red-Social.Services\bin\Debug\netcoreapp3.1\Red-Social.Services.dll
+C:\Users\PedroMigueldelaCruzC\Desktop\Red-Social\Red-Social.Services\bin\Debug\netcoreapp3.1\Red-Social.Services.pdb
+C:\Users\PedroMigueldelaCruzC\Desktop\Red-Social\Red-Social.Services\bin\Debug\netcoreapp3.1\Red-Social.Model.dll
+C:\Users\PedroMigueldelaCruzC\Desktop\Red-Social\Red-Social.Services\bin\Debug\netcoreapp3.1\Red-Social.Repository.dll
+C:\Users\PedroMigueldelaCruzC\Desktop\Red-Social\Red-Social.Services\bin\Debug\netcoreapp3.1\Red-Social.Repository.pdb
+C:\Users\PedroMigueldelaCruzC\Desktop\Red-Social\Red-Social.Services\bin\Debug\netcoreapp3.1\Red-Social.Model.pdb
+C:\Users\PedroMigueldelaCruzC\Desktop\Red-Social\Red-Social.Services\obj\Debug\netcoreapp3.1\Red-Social.Services.csproj.AssemblyReference.cache
+C:\Users\PedroMigueldelaCruzC\Desktop\Red-Social\Red-Social.Services\obj\Debug\netcoreapp3.1\Red-Social.Services.AssemblyInfoInputs.cache
+C:\Users\PedroMigueldelaCruzC\Desktop\Red-Social\Red-Social.Services\obj\Debug\netcoreapp3.1\Red-Social.Services.AssemblyInfo.cs
+C:\Users\PedroMigueldelaCruzC\Desktop\Red-Social\Red-Social.Services\obj\Debug\netcoreapp3.1\Red-Social.Services.csproj.CoreCompileInputs.cache
+C:\Users\PedroMigueldelaCruzC\Desktop\Red-Social\Red-Social.Services\obj\Debug\netcoreapp3.1\Red-Social.Services.csproj.CopyComplete
+C:\Users\PedroMigueldelaCruzC\Desktop\Red-Social\Red-Social.Services\obj\Debug\netcoreapp3.1\Red-Social.Services.dll
+C:\Users\PedroMigueldelaCruzC\Desktop\Red-Social\Red-Social.Services\obj\Debug\netcoreapp3.1\Red-Social.Services.pdb
+C:\Users\PedroMigueldelaCruzC\Desktop\Prueba Claro\Escuelita\Red-Social.Services\bin\Debug\netcoreapp3.1\Red-Social.Services.deps.json
+C:\Users\PedroMigueldelaCruzC\Desktop\Prueba Claro\Escuelita\Red-Social.Services\bin\Debug\netcoreapp3.1\Red-Social.Services.dll
+C:\Users\PedroMigueldelaCruzC\Desktop\Prueba Claro\Escuelita\Red-Social.Services\bin\Debug\netcoreapp3.1\Red-Social.Services.pdb
+C:\Users\PedroMigueldelaCruzC\Desktop\Prueba Claro\Escuelita\Red-Social.Services\bin\Debug\netcoreapp3.1\Red-Social.Model.dll
+C:\Users\PedroMigueldelaCruzC\Desktop\Prueba Claro\Escuelita\Red-Social.Services\bin\Debug\netcoreapp3.1\Red-Social.Repository.dll
+C:\Users\PedroMigueldelaCruzC\Desktop\Prueba Claro\Escuelita\Red-Social.Services\bin\Debug\netcoreapp3.1\Red-Social.Repository.pdb
+C:\Users\PedroMigueldelaCruzC\Desktop\Prueba Claro\Escuelita\Red-Social.Services\bin\Debug\netcoreapp3.1\Red-Social.Model.pdb
+C:\Users\PedroMigueldelaCruzC\Desktop\Prueba Claro\Escuelita\Red-Social.Services\obj\Debug\netcoreapp3.1\Red-Social.Services.AssemblyInfoInputs.cache
+C:\Users\PedroMigueldelaCruzC\Desktop\Prueba Claro\Escuelita\Red-Social.Services\obj\Debug\netcoreapp3.1\Red-Social.Services.AssemblyInfo.cs
+C:\Users\PedroMigueldelaCruzC\Desktop\Prueba Claro\Escuelita\Red-Social.Services\obj\Debug\netcoreapp3.1\Red-Social.Services.csproj.CoreCompileInputs.cache
+C:\Users\PedroMigueldelaCruzC\Desktop\Prueba Claro\Escuelita\Red-Social.Services\obj\Debug\netcoreapp3.1\Red-Social.Services.csproj.CopyComplete
+C:\Users\PedroMigueldelaCruzC\Desktop\Prueba Claro\Escuelita\Red-Social.Services\obj\Debug\netcoreapp3.1\Red-Social.Services.dll
+C:\Users\PedroMigueldelaCruzC\Desktop\Prueba Claro\Escuelita\Red-Social.Services\obj\Debug\netcoreapp3.1\Red-Social.Services.pdb
+C:\Users\PedroMigueldelaCruzC\Desktop\Prueba Claro\Escuelita\Red-Social.Services\obj\Debug\netcoreapp3.1\Red-Social.Services.csproj.AssemblyReference.cache
+C:\Users\PedroMigueldelaCruzC\Desktop\Claro\Escuelita\Red-Social.Services\bin\Debug\netcoreapp3.1\Red-Social.Services.deps.json
+C:\Users\PedroMigueldelaCruzC\Desktop\Claro\Escuelita\Red-Social.Services\bin\Debug\netcoreapp3.1\Red-Social.Services.dll
+C:\Users\PedroMigueldelaCruzC\Desktop\Claro\Escuelita\Red-Social.Services\bin\Debug\netcoreapp3.1\Red-Social.Services.pdb
+C:\Users\PedroMigueldelaCruzC\Desktop\Claro\Escuelita\Red-Social.Services\bin\Debug\netcoreapp3.1\Red-Social.Model.dll
+C:\Users\PedroMigueldelaCruzC\Desktop\Claro\Escuelita\Red-Social.Services\bin\Debug\netcoreapp3.1\Red-Social.Model.pdb
+C:\Users\PedroMigueldelaCruzC\Desktop\Claro\Escuelita\Red-Social.Services\obj\Debug\netcoreapp3.1\Red-Social.Services.csproj.AssemblyReference.cache
+C:\Users\PedroMigueldelaCruzC\Desktop\Claro\Escuelita\Red-Social.Services\obj\Debug\netcoreapp3.1\Red-Social.Services.AssemblyInfoInputs.cache
+C:\Users\PedroMigueldelaCruzC\Desktop\Claro\Escuelita\Red-Social.Services\obj\Debug\netcoreapp3.1\Red-Social.Services.AssemblyInfo.cs
+C:\Users\PedroMigueldelaCruzC\Desktop\Claro\Escuelita\Red-Social.Services\obj\Debug\netcoreapp3.1\Red-Social.Services.csproj.CoreCompileInputs.cache
+C:\Users\PedroMigueldelaCruzC\Desktop\Claro\Escuelita\Red-Social.Services\obj\Debug\netcoreapp3.1\Red-Social.Services.csproj.CopyComplete
+C:\Users\PedroMigueldelaCruzC\Desktop\Claro\Escuelita\Red-Social.Services\obj\Debug\netcoreapp3.1\Red-Social.Services.dll
+C:\Users\PedroMigueldelaCruzC\Desktop\Claro\Escuelita\Red-Social.Services\obj\Debug\netcoreapp3.1\Red-Social.Services.pdb

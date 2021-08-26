@@ -1,0 +1,64 @@
+<hr>
+<h2 class="text-center mb-4">Mantenimiento de Cursos</h2>
+<hr>
+
+<div class="row">
+  <div class="col-4">
+    <form [formGroup]="form">
+      <div class="mb-3 shadow-sm p-3 mb-5 rounded">
+        <label for="exampleInputEmail1" class="form-label">Nombre</label>
+        <input formControlName="name" type="text" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp">
+        <div class="d-grid gap-2">
+          <button type="submit" (click)="postCourses()" class="btn btn-success mt-4" type="button">Agregar</button>
+        </div>
+      </div>
+    </form>
+  </div>
+  <div class="col-8">
+    <table class="table table-striped shadow-sm p-3 mb-5 rounded">
+      <thead>
+        <tr>
+          <th scope="col">#</th>
+          <th scope="col">Nombre</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr *ngFor="let item of CoursesData; let i = index">
+          <th scope="row">{{i + 1}}</th>
+          <td>{{item.name}}</td>
+          <td>
+            <button (click)="deleteCourses(item.id)">
+              x
+            </button> |
+            <button (click)="getCoursesByid(item.id)" data-bs-toggle="modal" data-bs-target="#exampleModal">
+              edit
+            </button>
+          </td>
+
+        </tr>
+      </tbody>
+    </table>
+  </div>
+
+
+<div class="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+      </div>
+      <div class="modal-body">
+        <form [formGroup]="formEdit">
+          <div class="mb-3 shadow-sm p-3 mb-5 rounded">
+            <label for="exampleInputEmail1" class="form-label">Nombre</label>
+            <input formControlName="name" type="text" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp">
+            <div class="d-grid gap-2">
+              <button type="submit" (click)="updateCourses(formEdit)" (click)="ClearData()" class="btn btn-success mt-4" type="button">Editar</button>
+            </div>
+          </div>
+        </form>
+      </div>
+    </div>
+  </div>
+</div>
+</div>

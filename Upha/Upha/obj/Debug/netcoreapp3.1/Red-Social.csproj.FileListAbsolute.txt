@@ -1,0 +1,294 @@
+C:\Users\PedroMigueldelaCruzC\source\repos\Red-Social\Red-Social\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\PedroMigueldelaCruzC\source\repos\Red-Social\Red-Social\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\PedroMigueldelaCruzC\source\repos\Red-Social\Red-Social\bin\Debug\netcoreapp3.1\Red-Social.exe
+C:\Users\PedroMigueldelaCruzC\source\repos\Red-Social\Red-Social\bin\Debug\netcoreapp3.1\Red-Social.deps.json
+C:\Users\PedroMigueldelaCruzC\source\repos\Red-Social\Red-Social\bin\Debug\netcoreapp3.1\Red-Social.runtimeconfig.json
+C:\Users\PedroMigueldelaCruzC\source\repos\Red-Social\Red-Social\bin\Debug\netcoreapp3.1\Red-Social.runtimeconfig.dev.json
+C:\Users\PedroMigueldelaCruzC\source\repos\Red-Social\Red-Social\bin\Debug\netcoreapp3.1\Red-Social.dll
+C:\Users\PedroMigueldelaCruzC\source\repos\Red-Social\Red-Social\bin\Debug\netcoreapp3.1\Red-Social.pdb
+C:\Users\PedroMigueldelaCruzC\source\repos\Red-Social\Red-Social\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\PedroMigueldelaCruzC\source\repos\Red-Social\Red-Social\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\PedroMigueldelaCruzC\source\repos\Red-Social\Red-Social\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\PedroMigueldelaCruzC\source\repos\Red-Social\Red-Social\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\PedroMigueldelaCruzC\source\repos\Red-Social\Red-Social\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\PedroMigueldelaCruzC\source\repos\Red-Social\Red-Social\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\PedroMigueldelaCruzC\source\repos\Red-Social\Red-Social\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\PedroMigueldelaCruzC\source\repos\Red-Social\Red-Social\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\PedroMigueldelaCruzC\source\repos\Red-Social\Red-Social\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\PedroMigueldelaCruzC\source\repos\Red-Social\Red-Social\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\PedroMigueldelaCruzC\source\repos\Red-Social\Red-Social\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\PedroMigueldelaCruzC\source\repos\Red-Social\Red-Social\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\PedroMigueldelaCruzC\source\repos\Red-Social\Red-Social\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\PedroMigueldelaCruzC\source\repos\Red-Social\Red-Social\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\PedroMigueldelaCruzC\source\repos\Red-Social\Red-Social\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\PedroMigueldelaCruzC\source\repos\Red-Social\Red-Social\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\PedroMigueldelaCruzC\source\repos\Red-Social\Red-Social\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\PedroMigueldelaCruzC\source\repos\Red-Social\Red-Social\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\PedroMigueldelaCruzC\source\repos\Red-Social\Red-Social\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\PedroMigueldelaCruzC\source\repos\Red-Social\Red-Social\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\PedroMigueldelaCruzC\source\repos\Red-Social\Red-Social\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\PedroMigueldelaCruzC\source\repos\Red-Social\Red-Social\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\PedroMigueldelaCruzC\source\repos\Red-Social\Red-Social\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\PedroMigueldelaCruzC\source\repos\Red-Social\Red-Social\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\PedroMigueldelaCruzC\source\repos\Red-Social\Red-Social\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\PedroMigueldelaCruzC\source\repos\Red-Social\Red-Social\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\PedroMigueldelaCruzC\source\repos\Red-Social\Red-Social\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\PedroMigueldelaCruzC\source\repos\Red-Social\Red-Social\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\PedroMigueldelaCruzC\source\repos\Red-Social\Red-Social\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\PedroMigueldelaCruzC\source\repos\Red-Social\Red-Social\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\PedroMigueldelaCruzC\source\repos\Red-Social\Red-Social\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\PedroMigueldelaCruzC\source\repos\Red-Social\Red-Social\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\PedroMigueldelaCruzC\source\repos\Red-Social\Red-Social\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\PedroMigueldelaCruzC\source\repos\Red-Social\Red-Social\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\PedroMigueldelaCruzC\source\repos\Red-Social\Red-Social\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\PedroMigueldelaCruzC\source\repos\Red-Social\Red-Social\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\PedroMigueldelaCruzC\source\repos\Red-Social\Red-Social\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\PedroMigueldelaCruzC\source\repos\Red-Social\Red-Social\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\PedroMigueldelaCruzC\source\repos\Red-Social\Red-Social\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\PedroMigueldelaCruzC\source\repos\Red-Social\Red-Social\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\PedroMigueldelaCruzC\source\repos\Red-Social\Red-Social\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\PedroMigueldelaCruzC\source\repos\Red-Social\Red-Social\bin\Debug\netcoreapp3.1\Red-Social.Model.dll
+C:\Users\PedroMigueldelaCruzC\source\repos\Red-Social\Red-Social\bin\Debug\netcoreapp3.1\Red-Social.Repository.dll
+C:\Users\PedroMigueldelaCruzC\source\repos\Red-Social\Red-Social\bin\Debug\netcoreapp3.1\Red-Social.Services.dll
+C:\Users\PedroMigueldelaCruzC\source\repos\Red-Social\Red-Social\bin\Debug\netcoreapp3.1\Red-Social.Services.pdb
+C:\Users\PedroMigueldelaCruzC\source\repos\Red-Social\Red-Social\bin\Debug\netcoreapp3.1\Red-Social.Model.pdb
+C:\Users\PedroMigueldelaCruzC\source\repos\Red-Social\Red-Social\bin\Debug\netcoreapp3.1\Red-Social.Repository.pdb
+C:\Users\PedroMigueldelaCruzC\source\repos\Red-Social\Red-Social\obj\Debug\netcoreapp3.1\Red-Social.csproj.AssemblyReference.cache
+C:\Users\PedroMigueldelaCruzC\source\repos\Red-Social\Red-Social\obj\Debug\netcoreapp3.1\Red-Social.AssemblyInfoInputs.cache
+C:\Users\PedroMigueldelaCruzC\source\repos\Red-Social\Red-Social\obj\Debug\netcoreapp3.1\Red-Social.AssemblyInfo.cs
+C:\Users\PedroMigueldelaCruzC\source\repos\Red-Social\Red-Social\obj\Debug\netcoreapp3.1\Red-Social.csproj.CoreCompileInputs.cache
+C:\Users\PedroMigueldelaCruzC\source\repos\Red-Social\Red-Social\obj\Debug\netcoreapp3.1\Red-Social.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\PedroMigueldelaCruzC\source\repos\Red-Social\Red-Social\obj\Debug\netcoreapp3.1\staticwebassets\Red-Social.StaticWebAssets.Manifest.cache
+C:\Users\PedroMigueldelaCruzC\source\repos\Red-Social\Red-Social\obj\Debug\netcoreapp3.1\staticwebassets\Red-Social.StaticWebAssets.xml
+C:\Users\PedroMigueldelaCruzC\source\repos\Red-Social\Red-Social\obj\Debug\netcoreapp3.1\scopedcss\bundle\Red-Social.styles.css
+C:\Users\PedroMigueldelaCruzC\source\repos\Red-Social\Red-Social\obj\Debug\netcoreapp3.1\Red-Social.RazorTargetAssemblyInfo.cache
+C:\Users\PedroMigueldelaCruzC\source\repos\Red-Social\Red-Social\obj\Debug\netcoreapp3.1\Red-Social.csproj.CopyComplete
+C:\Users\PedroMigueldelaCruzC\source\repos\Red-Social\Red-Social\obj\Debug\netcoreapp3.1\Red-Social.dll
+C:\Users\PedroMigueldelaCruzC\source\repos\Red-Social\Red-Social\obj\Debug\netcoreapp3.1\Red-Social.pdb
+C:\Users\PedroMigueldelaCruzC\source\repos\Red-Social\Red-Social\obj\Debug\netcoreapp3.1\Red-Social.genruntimeconfig.cache
+C:\Users\PedroMigueldelaCruzC\source\repos\Red-Social\Red-Social\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\PedroMigueldelaCruzC\source\repos\Red-Social\Red-Social\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\PedroMigueldelaCruzC\source\repos\Red-Social\Red-Social\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\PedroMigueldelaCruzC\source\repos\Red-Social\Red-Social\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\PedroMigueldelaCruzC\source\repos\Red-Social\Red-Social\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\PedroMigueldelaCruzC\source\repos\Red-Social\Red-Social\obj\Debug\netcoreapp3.1\Red-Social.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\PedroMigueldelaCruzC\Desktop\Red-Social\Red-Social\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\PedroMigueldelaCruzC\Desktop\Red-Social\Red-Social\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\PedroMigueldelaCruzC\Desktop\Red-Social\Red-Social\bin\Debug\netcoreapp3.1\Red-Social.exe
+C:\Users\PedroMigueldelaCruzC\Desktop\Red-Social\Red-Social\bin\Debug\netcoreapp3.1\Red-Social.deps.json
+C:\Users\PedroMigueldelaCruzC\Desktop\Red-Social\Red-Social\bin\Debug\netcoreapp3.1\Red-Social.runtimeconfig.json
+C:\Users\PedroMigueldelaCruzC\Desktop\Red-Social\Red-Social\bin\Debug\netcoreapp3.1\Red-Social.runtimeconfig.dev.json
+C:\Users\PedroMigueldelaCruzC\Desktop\Red-Social\Red-Social\bin\Debug\netcoreapp3.1\Red-Social.dll
+C:\Users\PedroMigueldelaCruzC\Desktop\Red-Social\Red-Social\bin\Debug\netcoreapp3.1\Red-Social.pdb
+C:\Users\PedroMigueldelaCruzC\Desktop\Red-Social\Red-Social\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\PedroMigueldelaCruzC\Desktop\Red-Social\Red-Social\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\PedroMigueldelaCruzC\Desktop\Red-Social\Red-Social\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\PedroMigueldelaCruzC\Desktop\Red-Social\Red-Social\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\PedroMigueldelaCruzC\Desktop\Red-Social\Red-Social\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\PedroMigueldelaCruzC\Desktop\Red-Social\Red-Social\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\PedroMigueldelaCruzC\Desktop\Red-Social\Red-Social\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\PedroMigueldelaCruzC\Desktop\Red-Social\Red-Social\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\PedroMigueldelaCruzC\Desktop\Red-Social\Red-Social\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\PedroMigueldelaCruzC\Desktop\Red-Social\Red-Social\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\PedroMigueldelaCruzC\Desktop\Red-Social\Red-Social\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\PedroMigueldelaCruzC\Desktop\Red-Social\Red-Social\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\PedroMigueldelaCruzC\Desktop\Red-Social\Red-Social\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\PedroMigueldelaCruzC\Desktop\Red-Social\Red-Social\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\PedroMigueldelaCruzC\Desktop\Red-Social\Red-Social\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\PedroMigueldelaCruzC\Desktop\Red-Social\Red-Social\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\PedroMigueldelaCruzC\Desktop\Red-Social\Red-Social\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\PedroMigueldelaCruzC\Desktop\Red-Social\Red-Social\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\PedroMigueldelaCruzC\Desktop\Red-Social\Red-Social\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\PedroMigueldelaCruzC\Desktop\Red-Social\Red-Social\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\PedroMigueldelaCruzC\Desktop\Red-Social\Red-Social\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\PedroMigueldelaCruzC\Desktop\Red-Social\Red-Social\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\PedroMigueldelaCruzC\Desktop\Red-Social\Red-Social\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\PedroMigueldelaCruzC\Desktop\Red-Social\Red-Social\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\PedroMigueldelaCruzC\Desktop\Red-Social\Red-Social\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\PedroMigueldelaCruzC\Desktop\Red-Social\Red-Social\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\PedroMigueldelaCruzC\Desktop\Red-Social\Red-Social\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\PedroMigueldelaCruzC\Desktop\Red-Social\Red-Social\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\PedroMigueldelaCruzC\Desktop\Red-Social\Red-Social\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\PedroMigueldelaCruzC\Desktop\Red-Social\Red-Social\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\PedroMigueldelaCruzC\Desktop\Red-Social\Red-Social\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\PedroMigueldelaCruzC\Desktop\Red-Social\Red-Social\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\PedroMigueldelaCruzC\Desktop\Red-Social\Red-Social\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\PedroMigueldelaCruzC\Desktop\Red-Social\Red-Social\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\PedroMigueldelaCruzC\Desktop\Red-Social\Red-Social\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\PedroMigueldelaCruzC\Desktop\Red-Social\Red-Social\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\PedroMigueldelaCruzC\Desktop\Red-Social\Red-Social\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\PedroMigueldelaCruzC\Desktop\Red-Social\Red-Social\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\PedroMigueldelaCruzC\Desktop\Red-Social\Red-Social\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\PedroMigueldelaCruzC\Desktop\Red-Social\Red-Social\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\PedroMigueldelaCruzC\Desktop\Red-Social\Red-Social\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\PedroMigueldelaCruzC\Desktop\Red-Social\Red-Social\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\PedroMigueldelaCruzC\Desktop\Red-Social\Red-Social\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\PedroMigueldelaCruzC\Desktop\Red-Social\Red-Social\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\PedroMigueldelaCruzC\Desktop\Red-Social\Red-Social\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\PedroMigueldelaCruzC\Desktop\Red-Social\Red-Social\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\PedroMigueldelaCruzC\Desktop\Red-Social\Red-Social\bin\Debug\netcoreapp3.1\Red-Social.Model.dll
+C:\Users\PedroMigueldelaCruzC\Desktop\Red-Social\Red-Social\bin\Debug\netcoreapp3.1\Red-Social.Repository.dll
+C:\Users\PedroMigueldelaCruzC\Desktop\Red-Social\Red-Social\bin\Debug\netcoreapp3.1\Red-Social.Services.dll
+C:\Users\PedroMigueldelaCruzC\Desktop\Red-Social\Red-Social\bin\Debug\netcoreapp3.1\Red-Social.Services.pdb
+C:\Users\PedroMigueldelaCruzC\Desktop\Red-Social\Red-Social\bin\Debug\netcoreapp3.1\Red-Social.Model.pdb
+C:\Users\PedroMigueldelaCruzC\Desktop\Red-Social\Red-Social\bin\Debug\netcoreapp3.1\Red-Social.Repository.pdb
+C:\Users\PedroMigueldelaCruzC\Desktop\Red-Social\Red-Social\obj\Debug\netcoreapp3.1\Red-Social.csproj.AssemblyReference.cache
+C:\Users\PedroMigueldelaCruzC\Desktop\Red-Social\Red-Social\obj\Debug\netcoreapp3.1\Red-Social.AssemblyInfoInputs.cache
+C:\Users\PedroMigueldelaCruzC\Desktop\Red-Social\Red-Social\obj\Debug\netcoreapp3.1\Red-Social.AssemblyInfo.cs
+C:\Users\PedroMigueldelaCruzC\Desktop\Red-Social\Red-Social\obj\Debug\netcoreapp3.1\Red-Social.csproj.CoreCompileInputs.cache
+C:\Users\PedroMigueldelaCruzC\Desktop\Red-Social\Red-Social\obj\Debug\netcoreapp3.1\Red-Social.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\PedroMigueldelaCruzC\Desktop\Red-Social\Red-Social\obj\Debug\netcoreapp3.1\Red-Social.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\PedroMigueldelaCruzC\Desktop\Red-Social\Red-Social\obj\Debug\netcoreapp3.1\staticwebassets\Red-Social.StaticWebAssets.Manifest.cache
+C:\Users\PedroMigueldelaCruzC\Desktop\Red-Social\Red-Social\obj\Debug\netcoreapp3.1\staticwebassets\Red-Social.StaticWebAssets.xml
+C:\Users\PedroMigueldelaCruzC\Desktop\Red-Social\Red-Social\obj\Debug\netcoreapp3.1\scopedcss\bundle\Red-Social.styles.css
+C:\Users\PedroMigueldelaCruzC\Desktop\Red-Social\Red-Social\obj\Debug\netcoreapp3.1\Red-Social.RazorTargetAssemblyInfo.cache
+C:\Users\PedroMigueldelaCruzC\Desktop\Red-Social\Red-Social\obj\Debug\netcoreapp3.1\Red-Social.csproj.CopyComplete
+C:\Users\PedroMigueldelaCruzC\Desktop\Red-Social\Red-Social\obj\Debug\netcoreapp3.1\Red-Social.dll
+C:\Users\PedroMigueldelaCruzC\Desktop\Red-Social\Red-Social\obj\Debug\netcoreapp3.1\Red-Social.pdb
+C:\Users\PedroMigueldelaCruzC\Desktop\Red-Social\Red-Social\obj\Debug\netcoreapp3.1\Red-Social.genruntimeconfig.cache
+C:\Users\PedroMigueldelaCruzC\Desktop\Prueba Claro\Escuelita\Red-Social\obj\Debug\netcoreapp3.1\Red-Social.csproj.AssemblyReference.cache
+C:\Users\PedroMigueldelaCruzC\Desktop\Prueba Claro\Escuelita\Red-Social\obj\Debug\netcoreapp3.1\Red-Social.AssemblyInfoInputs.cache
+C:\Users\PedroMigueldelaCruzC\Desktop\Prueba Claro\Escuelita\Red-Social\obj\Debug\netcoreapp3.1\Red-Social.AssemblyInfo.cs
+C:\Users\PedroMigueldelaCruzC\Desktop\Prueba Claro\Escuelita\Red-Social\obj\Debug\netcoreapp3.1\Red-Social.csproj.CoreCompileInputs.cache
+C:\Users\PedroMigueldelaCruzC\Desktop\Prueba Claro\Escuelita\Red-Social\obj\Debug\netcoreapp3.1\Red-Social.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\PedroMigueldelaCruzC\Desktop\Prueba Claro\Escuelita\Red-Social\obj\Debug\netcoreapp3.1\Red-Social.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\PedroMigueldelaCruzC\Desktop\Prueba Claro\Escuelita\Red-Social\obj\Debug\netcoreapp3.1\Red-Social.dll
+C:\Users\PedroMigueldelaCruzC\Desktop\Prueba Claro\Escuelita\Red-Social\obj\Debug\netcoreapp3.1\Red-Social.pdb
+C:\Users\PedroMigueldelaCruzC\Desktop\Prueba Claro\Escuelita\Red-Social\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\PedroMigueldelaCruzC\Desktop\Prueba Claro\Escuelita\Red-Social\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\PedroMigueldelaCruzC\Desktop\Prueba Claro\Escuelita\Red-Social\bin\Debug\netcoreapp3.1\Red-Social.exe
+C:\Users\PedroMigueldelaCruzC\Desktop\Prueba Claro\Escuelita\Red-Social\bin\Debug\netcoreapp3.1\Red-Social.deps.json
+C:\Users\PedroMigueldelaCruzC\Desktop\Prueba Claro\Escuelita\Red-Social\bin\Debug\netcoreapp3.1\Red-Social.runtimeconfig.json
+C:\Users\PedroMigueldelaCruzC\Desktop\Prueba Claro\Escuelita\Red-Social\bin\Debug\netcoreapp3.1\Red-Social.runtimeconfig.dev.json
+C:\Users\PedroMigueldelaCruzC\Desktop\Prueba Claro\Escuelita\Red-Social\bin\Debug\netcoreapp3.1\Red-Social.dll
+C:\Users\PedroMigueldelaCruzC\Desktop\Prueba Claro\Escuelita\Red-Social\bin\Debug\netcoreapp3.1\Red-Social.pdb
+C:\Users\PedroMigueldelaCruzC\Desktop\Prueba Claro\Escuelita\Red-Social\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\PedroMigueldelaCruzC\Desktop\Prueba Claro\Escuelita\Red-Social\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\PedroMigueldelaCruzC\Desktop\Prueba Claro\Escuelita\Red-Social\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\PedroMigueldelaCruzC\Desktop\Prueba Claro\Escuelita\Red-Social\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\PedroMigueldelaCruzC\Desktop\Prueba Claro\Escuelita\Red-Social\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\PedroMigueldelaCruzC\Desktop\Prueba Claro\Escuelita\Red-Social\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\PedroMigueldelaCruzC\Desktop\Prueba Claro\Escuelita\Red-Social\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\PedroMigueldelaCruzC\Desktop\Prueba Claro\Escuelita\Red-Social\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\PedroMigueldelaCruzC\Desktop\Prueba Claro\Escuelita\Red-Social\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\PedroMigueldelaCruzC\Desktop\Prueba Claro\Escuelita\Red-Social\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\PedroMigueldelaCruzC\Desktop\Prueba Claro\Escuelita\Red-Social\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\PedroMigueldelaCruzC\Desktop\Prueba Claro\Escuelita\Red-Social\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\PedroMigueldelaCruzC\Desktop\Prueba Claro\Escuelita\Red-Social\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\PedroMigueldelaCruzC\Desktop\Prueba Claro\Escuelita\Red-Social\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\PedroMigueldelaCruzC\Desktop\Prueba Claro\Escuelita\Red-Social\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\PedroMigueldelaCruzC\Desktop\Prueba Claro\Escuelita\Red-Social\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\PedroMigueldelaCruzC\Desktop\Prueba Claro\Escuelita\Red-Social\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\PedroMigueldelaCruzC\Desktop\Prueba Claro\Escuelita\Red-Social\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\PedroMigueldelaCruzC\Desktop\Prueba Claro\Escuelita\Red-Social\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\PedroMigueldelaCruzC\Desktop\Prueba Claro\Escuelita\Red-Social\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\PedroMigueldelaCruzC\Desktop\Prueba Claro\Escuelita\Red-Social\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\PedroMigueldelaCruzC\Desktop\Prueba Claro\Escuelita\Red-Social\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\PedroMigueldelaCruzC\Desktop\Prueba Claro\Escuelita\Red-Social\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\PedroMigueldelaCruzC\Desktop\Prueba Claro\Escuelita\Red-Social\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\PedroMigueldelaCruzC\Desktop\Prueba Claro\Escuelita\Red-Social\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\PedroMigueldelaCruzC\Desktop\Prueba Claro\Escuelita\Red-Social\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\PedroMigueldelaCruzC\Desktop\Prueba Claro\Escuelita\Red-Social\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\PedroMigueldelaCruzC\Desktop\Prueba Claro\Escuelita\Red-Social\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\PedroMigueldelaCruzC\Desktop\Prueba Claro\Escuelita\Red-Social\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\PedroMigueldelaCruzC\Desktop\Prueba Claro\Escuelita\Red-Social\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\PedroMigueldelaCruzC\Desktop\Prueba Claro\Escuelita\Red-Social\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\PedroMigueldelaCruzC\Desktop\Prueba Claro\Escuelita\Red-Social\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\PedroMigueldelaCruzC\Desktop\Prueba Claro\Escuelita\Red-Social\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\PedroMigueldelaCruzC\Desktop\Prueba Claro\Escuelita\Red-Social\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\PedroMigueldelaCruzC\Desktop\Prueba Claro\Escuelita\Red-Social\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\PedroMigueldelaCruzC\Desktop\Prueba Claro\Escuelita\Red-Social\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\PedroMigueldelaCruzC\Desktop\Prueba Claro\Escuelita\Red-Social\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\PedroMigueldelaCruzC\Desktop\Prueba Claro\Escuelita\Red-Social\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\PedroMigueldelaCruzC\Desktop\Prueba Claro\Escuelita\Red-Social\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\PedroMigueldelaCruzC\Desktop\Prueba Claro\Escuelita\Red-Social\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\PedroMigueldelaCruzC\Desktop\Prueba Claro\Escuelita\Red-Social\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\PedroMigueldelaCruzC\Desktop\Prueba Claro\Escuelita\Red-Social\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\PedroMigueldelaCruzC\Desktop\Prueba Claro\Escuelita\Red-Social\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\PedroMigueldelaCruzC\Desktop\Prueba Claro\Escuelita\Red-Social\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\PedroMigueldelaCruzC\Desktop\Prueba Claro\Escuelita\Red-Social\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\PedroMigueldelaCruzC\Desktop\Prueba Claro\Escuelita\Red-Social\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\PedroMigueldelaCruzC\Desktop\Prueba Claro\Escuelita\Red-Social\bin\Debug\netcoreapp3.1\Red-Social.Model.dll
+C:\Users\PedroMigueldelaCruzC\Desktop\Prueba Claro\Escuelita\Red-Social\bin\Debug\netcoreapp3.1\Red-Social.Repository.dll
+C:\Users\PedroMigueldelaCruzC\Desktop\Prueba Claro\Escuelita\Red-Social\bin\Debug\netcoreapp3.1\Red-Social.Services.dll
+C:\Users\PedroMigueldelaCruzC\Desktop\Prueba Claro\Escuelita\Red-Social\bin\Debug\netcoreapp3.1\Red-Social.Services.pdb
+C:\Users\PedroMigueldelaCruzC\Desktop\Prueba Claro\Escuelita\Red-Social\bin\Debug\netcoreapp3.1\Red-Social.Model.pdb
+C:\Users\PedroMigueldelaCruzC\Desktop\Prueba Claro\Escuelita\Red-Social\bin\Debug\netcoreapp3.1\Red-Social.Repository.pdb
+C:\Users\PedroMigueldelaCruzC\Desktop\Prueba Claro\Escuelita\Red-Social\obj\Debug\netcoreapp3.1\staticwebassets\Red-Social.StaticWebAssets.Manifest.cache
+C:\Users\PedroMigueldelaCruzC\Desktop\Prueba Claro\Escuelita\Red-Social\obj\Debug\netcoreapp3.1\staticwebassets\Red-Social.StaticWebAssets.xml
+C:\Users\PedroMigueldelaCruzC\Desktop\Prueba Claro\Escuelita\Red-Social\obj\Debug\netcoreapp3.1\scopedcss\bundle\Red-Social.styles.css
+C:\Users\PedroMigueldelaCruzC\Desktop\Prueba Claro\Escuelita\Red-Social\obj\Debug\netcoreapp3.1\Red-Social.RazorTargetAssemblyInfo.cache
+C:\Users\PedroMigueldelaCruzC\Desktop\Prueba Claro\Escuelita\Red-Social\obj\Debug\netcoreapp3.1\Red-Social.csproj.CopyComplete
+C:\Users\PedroMigueldelaCruzC\Desktop\Prueba Claro\Escuelita\Red-Social\obj\Debug\netcoreapp3.1\Red-Social.genruntimeconfig.cache
+C:\Users\PedroMigueldelaCruzC\Desktop\Claro\Escuelita\Red-Social\obj\Debug\netcoreapp3.1\Red-Social.csproj.AssemblyReference.cache
+C:\Users\PedroMigueldelaCruzC\Desktop\Claro\Escuelita\Red-Social\obj\Debug\netcoreapp3.1\Red-Social.AssemblyInfoInputs.cache
+C:\Users\PedroMigueldelaCruzC\Desktop\Claro\Escuelita\Red-Social\obj\Debug\netcoreapp3.1\Red-Social.AssemblyInfo.cs
+C:\Users\PedroMigueldelaCruzC\Desktop\Claro\Escuelita\Red-Social\obj\Debug\netcoreapp3.1\Red-Social.csproj.CoreCompileInputs.cache
+C:\Users\PedroMigueldelaCruzC\Desktop\Claro\Escuelita\Red-Social\obj\Debug\netcoreapp3.1\Red-Social.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\PedroMigueldelaCruzC\Desktop\Claro\Escuelita\Red-Social\obj\Debug\netcoreapp3.1\Red-Social.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\PedroMigueldelaCruzC\Desktop\Claro\Escuelita\Red-Social\obj\Debug\netcoreapp3.1\Red-Social.dll
+C:\Users\PedroMigueldelaCruzC\Desktop\Claro\Escuelita\Red-Social\obj\Debug\netcoreapp3.1\Red-Social.pdb
+C:\Users\PedroMigueldelaCruzC\Desktop\Claro\Escuelita\Red-Social\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\PedroMigueldelaCruzC\Desktop\Claro\Escuelita\Red-Social\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\PedroMigueldelaCruzC\Desktop\Claro\Escuelita\Red-Social\bin\Debug\netcoreapp3.1\Red-Social.exe
+C:\Users\PedroMigueldelaCruzC\Desktop\Claro\Escuelita\Red-Social\bin\Debug\netcoreapp3.1\Red-Social.deps.json
+C:\Users\PedroMigueldelaCruzC\Desktop\Claro\Escuelita\Red-Social\bin\Debug\netcoreapp3.1\Red-Social.runtimeconfig.json
+C:\Users\PedroMigueldelaCruzC\Desktop\Claro\Escuelita\Red-Social\bin\Debug\netcoreapp3.1\Red-Social.runtimeconfig.dev.json
+C:\Users\PedroMigueldelaCruzC\Desktop\Claro\Escuelita\Red-Social\bin\Debug\netcoreapp3.1\Red-Social.dll
+C:\Users\PedroMigueldelaCruzC\Desktop\Claro\Escuelita\Red-Social\bin\Debug\netcoreapp3.1\Red-Social.pdb
+C:\Users\PedroMigueldelaCruzC\Desktop\Claro\Escuelita\Red-Social\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\PedroMigueldelaCruzC\Desktop\Claro\Escuelita\Red-Social\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\PedroMigueldelaCruzC\Desktop\Claro\Escuelita\Red-Social\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\PedroMigueldelaCruzC\Desktop\Claro\Escuelita\Red-Social\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\PedroMigueldelaCruzC\Desktop\Claro\Escuelita\Red-Social\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\PedroMigueldelaCruzC\Desktop\Claro\Escuelita\Red-Social\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\PedroMigueldelaCruzC\Desktop\Claro\Escuelita\Red-Social\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\PedroMigueldelaCruzC\Desktop\Claro\Escuelita\Red-Social\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\PedroMigueldelaCruzC\Desktop\Claro\Escuelita\Red-Social\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\PedroMigueldelaCruzC\Desktop\Claro\Escuelita\Red-Social\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\PedroMigueldelaCruzC\Desktop\Claro\Escuelita\Red-Social\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\PedroMigueldelaCruzC\Desktop\Claro\Escuelita\Red-Social\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\PedroMigueldelaCruzC\Desktop\Claro\Escuelita\Red-Social\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\PedroMigueldelaCruzC\Desktop\Claro\Escuelita\Red-Social\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\PedroMigueldelaCruzC\Desktop\Claro\Escuelita\Red-Social\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\PedroMigueldelaCruzC\Desktop\Claro\Escuelita\Red-Social\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\PedroMigueldelaCruzC\Desktop\Claro\Escuelita\Red-Social\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\PedroMigueldelaCruzC\Desktop\Claro\Escuelita\Red-Social\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\PedroMigueldelaCruzC\Desktop\Claro\Escuelita\Red-Social\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\PedroMigueldelaCruzC\Desktop\Claro\Escuelita\Red-Social\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\PedroMigueldelaCruzC\Desktop\Claro\Escuelita\Red-Social\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\PedroMigueldelaCruzC\Desktop\Claro\Escuelita\Red-Social\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\PedroMigueldelaCruzC\Desktop\Claro\Escuelita\Red-Social\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\PedroMigueldelaCruzC\Desktop\Claro\Escuelita\Red-Social\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\PedroMigueldelaCruzC\Desktop\Claro\Escuelita\Red-Social\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\PedroMigueldelaCruzC\Desktop\Claro\Escuelita\Red-Social\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\PedroMigueldelaCruzC\Desktop\Claro\Escuelita\Red-Social\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\PedroMigueldelaCruzC\Desktop\Claro\Escuelita\Red-Social\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\PedroMigueldelaCruzC\Desktop\Claro\Escuelita\Red-Social\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\PedroMigueldelaCruzC\Desktop\Claro\Escuelita\Red-Social\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\PedroMigueldelaCruzC\Desktop\Claro\Escuelita\Red-Social\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\PedroMigueldelaCruzC\Desktop\Claro\Escuelita\Red-Social\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\PedroMigueldelaCruzC\Desktop\Claro\Escuelita\Red-Social\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\PedroMigueldelaCruzC\Desktop\Claro\Escuelita\Red-Social\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\PedroMigueldelaCruzC\Desktop\Claro\Escuelita\Red-Social\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\PedroMigueldelaCruzC\Desktop\Claro\Escuelita\Red-Social\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\PedroMigueldelaCruzC\Desktop\Claro\Escuelita\Red-Social\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\PedroMigueldelaCruzC\Desktop\Claro\Escuelita\Red-Social\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\PedroMigueldelaCruzC\Desktop\Claro\Escuelita\Red-Social\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\PedroMigueldelaCruzC\Desktop\Claro\Escuelita\Red-Social\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\PedroMigueldelaCruzC\Desktop\Claro\Escuelita\Red-Social\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\PedroMigueldelaCruzC\Desktop\Claro\Escuelita\Red-Social\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\PedroMigueldelaCruzC\Desktop\Claro\Escuelita\Red-Social\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\PedroMigueldelaCruzC\Desktop\Claro\Escuelita\Red-Social\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\PedroMigueldelaCruzC\Desktop\Claro\Escuelita\Red-Social\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\PedroMigueldelaCruzC\Desktop\Claro\Escuelita\Red-Social\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\PedroMigueldelaCruzC\Desktop\Claro\Escuelita\Red-Social\bin\Debug\netcoreapp3.1\Red-Social.Model.dll
+C:\Users\PedroMigueldelaCruzC\Desktop\Claro\Escuelita\Red-Social\bin\Debug\netcoreapp3.1\Red-Social.Services.dll
+C:\Users\PedroMigueldelaCruzC\Desktop\Claro\Escuelita\Red-Social\bin\Debug\netcoreapp3.1\Red-Social.Services.pdb
+C:\Users\PedroMigueldelaCruzC\Desktop\Claro\Escuelita\Red-Social\bin\Debug\netcoreapp3.1\Red-Social.Model.pdb
+C:\Users\PedroMigueldelaCruzC\Desktop\Claro\Escuelita\Red-Social\obj\Debug\netcoreapp3.1\staticwebassets\Red-Social.StaticWebAssets.Manifest.cache
+C:\Users\PedroMigueldelaCruzC\Desktop\Claro\Escuelita\Red-Social\obj\Debug\netcoreapp3.1\staticwebassets\Red-Social.StaticWebAssets.xml
+C:\Users\PedroMigueldelaCruzC\Desktop\Claro\Escuelita\Red-Social\obj\Debug\netcoreapp3.1\scopedcss\bundle\Red-Social.styles.css
+C:\Users\PedroMigueldelaCruzC\Desktop\Claro\Escuelita\Red-Social\obj\Debug\netcoreapp3.1\Red-Social.RazorTargetAssemblyInfo.cache
+C:\Users\PedroMigueldelaCruzC\Desktop\Claro\Escuelita\Red-Social\obj\Debug\netcoreapp3.1\Red-Social.csproj.CopyComplete
+C:\Users\PedroMigueldelaCruzC\Desktop\Claro\Escuelita\Red-Social\obj\Debug\netcoreapp3.1\Red-Social.genruntimeconfig.cache

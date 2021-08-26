@@ -1,0 +1,11 @@
+C:\Users\PedroMigueldelaCruzC\Desktop\Claro\Escuelita\Upha.Model\bin\Debug\netcoreapp3.1\Upha.Model.deps.json
+C:\Users\PedroMigueldelaCruzC\Desktop\Claro\Escuelita\Upha.Model\bin\Debug\netcoreapp3.1\Upha.Model.runtimeconfig.json
+C:\Users\PedroMigueldelaCruzC\Desktop\Claro\Escuelita\Upha.Model\bin\Debug\netcoreapp3.1\Upha.Model.runtimeconfig.dev.json
+C:\Users\PedroMigueldelaCruzC\Desktop\Claro\Escuelita\Upha.Model\bin\Debug\netcoreapp3.1\Upha.Model.dll
+C:\Users\PedroMigueldelaCruzC\Desktop\Claro\Escuelita\Upha.Model\bin\Debug\netcoreapp3.1\Upha.Model.pdb
+C:\Users\PedroMigueldelaCruzC\Desktop\Claro\Escuelita\Upha.Model\obj\Debug\netcoreapp3.1\Upha.Model.AssemblyInfoInputs.cache
+C:\Users\PedroMigueldelaCruzC\Desktop\Claro\Escuelita\Upha.Model\obj\Debug\netcoreapp3.1\Upha.Model.AssemblyInfo.cs
+C:\Users\PedroMigueldelaCruzC\Desktop\Claro\Escuelita\Upha.Model\obj\Debug\netcoreapp3.1\Upha.Model.csproj.CoreCompileInputs.cache
+C:\Users\PedroMigueldelaCruzC\Desktop\Claro\Escuelita\Upha.Model\obj\Debug\netcoreapp3.1\Upha.Model.dll
+C:\Users\PedroMigueldelaCruzC\Desktop\Claro\Escuelita\Upha.Model\obj\Debug\netcoreapp3.1\Upha.Model.pdb
+C:\Users\PedroMigueldelaCruzC\Desktop\Claro\Escuelita\Upha.Model\obj\Debug\netcoreapp3.1\Upha.Model.genruntimeconfig.cache

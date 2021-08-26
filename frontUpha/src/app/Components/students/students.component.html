@@ -1,0 +1,81 @@
+<hr>
+<h2 class="text-center mb-4">Mantenimiento de Estudiantes</h2>
+<hr>
+
+<div class="row">
+  <div class="col-4">
+    <form [formGroup]="form" (ngSubmit)="postStudents()">
+      <div class="mb-3 shadow-sm p-3 mb-5 rounded">
+        <label for="exampleInputEmail1" class="form-label">Nombre</label>
+        <input formControlName="name" type="text" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp">
+
+        <label for="exampleInputEmail1" class="form-label">Apellido</label>
+        <input formControlName="lastName" type="text" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp">
+
+        <label for="exampleInputEmail1" class="form-label">Matricula</label>
+        <input formControlName="enrollment" type="text" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp">
+        <div class="d-grid gap-2">
+          <button type="submit" class="btn btn-success mt-4">Agregar</button>
+        </div>
+      </div>
+    </form>
+  </div>
+  <div class="col-8">
+    <table class="table table-striped shadow-sm p-3 mb-5 rounded">
+      <thead>
+        <tr>
+          <th scope="col">#</th>
+          <th scope="col">Nombre</th>
+          <th scope="col">Apellido</th>
+          <th scope="col">Matricula</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr *ngFor="let item of StudentData; let i = index">
+          <th scope="row">{{i + 1}}</th>
+          <td>{{item.name}}</td>
+          <td>{{item.lastName}}</td>
+          <td>{{item.enrollment}}</td>
+          <td>
+            <button (click)="deleteStudent(item.id)">
+              x
+            </button> |
+            <button (click)="getStudentsByid(item.id)" data-bs-toggle="modal" data-bs-target="#exampleModal">
+              edit
+            </button>
+          </td>
+
+        </tr>
+      </tbody>
+    </table>
+  </div>
+
+
+<!-- Modal -->
+<div class="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+      </div>
+      <div class="modal-body">
+        <form [formGroup]="formEdit">
+          <div class="mb-3 shadow-sm p-3 mb-5 rounded">
+            <label for="exampleInputEmail1" class="form-label">Nombre</label>
+            <input formControlName="name" type="text" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp">
+
+            <label for="exampleInputEmail1" class="form-label">Apellido</label>
+            <input formControlName="lastName" type="text" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp">
+
+            <label for="exampleInputEmail1" class="form-label">Matricula</label>
+            <input formControlName="enrollment" type="text" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp">
+            <div class="d-grid gap-2">
+              <button type="submit" (click)="updateStudent(formEdit)" (click)="ClearData()" class="btn btn-success mt-4" type="button">Agregar</button>
+            </div>
+          </div>
+        </form>
+      </div>
+    </div>
+  </div>
+</div>
+</div>

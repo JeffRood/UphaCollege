@@ -1,0 +1,90 @@
+<button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#exampleModal" (click)="getSelectionMatter()" class="btn btn-primary mb-4">Ver Seleccion</button>
+
+<div class="row">
+  <div class="col-4">
+    <table class="table table-striped shadow-sm p-3 mb-5 bg-light rounded ">
+      <thead>
+        <tr>
+          <th scope="col">Columna</th>
+          <th scope="col">+</th>
+          <th scope="col">Nombre</th>
+          <th scope="col">Apellido</th>
+          <th scope="col">Matricula</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr *ngFor="let item of Students; let i = index">
+          <th scope="row">{{i + 1}}</th>
+          <td>
+            <div>
+              <input class="form-check-input" (click)="getStudentId(item)" type="radio" name="radio" value="" aria-label="...">
+            </div>
+          </td>
+          <td>{{item.name}}</td>
+          <td>{{item.lastName}}</td>
+          <td>{{item.enrollment}}</td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+
+  <div class="col-8">
+    <table class="table table-striped shadow-sm p-3 mb-5 bg-light rounded ">
+      <thead>
+        <tr>
+          <th scope="col">#</th>
+          <th scope="col">Asignar Materia</th>
+          <th scope="col">Nombre</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr *ngFor="let item of Matters; let i = index">
+          <th scope="row">{{i + 1}}</th>
+          <td>
+            <div>
+              <input class="form-check-input" (click)="getCourseId(item)" type="checkbox" [id]="item.id" value="" aria-label="...">
+            </div>
+          </td>
+          <td>{{item.name}}</td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+</div>
+
+
+
+<!-- Modal -->
+<div class="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+      </div>
+      <div class="modal-body">
+        <table class="table container">
+          <thead>
+            <tr>
+              <th scope="col">#</th>
+              <th scope="col">First</th>
+            </tr>
+          </thead>
+          <tbody>
+            <div class="text-center" *ngIf="SelectedCourses.length === 0">
+              <hr>
+              <h4>No hay materias que visualizar</h4>
+              <hr>
+            </div>
+            <tr *ngFor="let item of SelectedCourses; let i = index">
+              <th scope="row">{{i + 1}}</th>
+              <td>{{item.courseName}}</td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+

@@ -1,0 +1,12 @@
+C:\Users\PedroMigueldelaCruzC\Desktop\Claro\Escuelita\Upha.Services\bin\Debug\netcoreapp3.1\Upha.Services.deps.json
+C:\Users\PedroMigueldelaCruzC\Desktop\Claro\Escuelita\Upha.Services\bin\Debug\netcoreapp3.1\Upha.Services.dll
+C:\Users\PedroMigueldelaCruzC\Desktop\Claro\Escuelita\Upha.Services\bin\Debug\netcoreapp3.1\Upha.Services.pdb
+C:\Users\PedroMigueldelaCruzC\Desktop\Claro\Escuelita\Upha.Services\bin\Debug\netcoreapp3.1\Upha.Model.dll
+C:\Users\PedroMigueldelaCruzC\Desktop\Claro\Escuelita\Upha.Services\bin\Debug\netcoreapp3.1\Upha.Model.pdb
+C:\Users\PedroMigueldelaCruzC\Desktop\Claro\Escuelita\Upha.Services\obj\Debug\netcoreapp3.1\Upha.Services.csproj.AssemblyReference.cache
+C:\Users\PedroMigueldelaCruzC\Desktop\Claro\Escuelita\Upha.Services\obj\Debug\netcoreapp3.1\Upha.Services.AssemblyInfoInputs.cache
+C:\Users\PedroMigueldelaCruzC\Desktop\Claro\Escuelita\Upha.Services\obj\Debug\netcoreapp3.1\Upha.Services.AssemblyInfo.cs
+C:\Users\PedroMigueldelaCruzC\Desktop\Claro\Escuelita\Upha.Services\obj\Debug\netcoreapp3.1\Upha.Services.csproj.CoreCompileInputs.cache
+C:\Users\PedroMigueldelaCruzC\Desktop\Claro\Escuelita\Upha.Services\obj\Debug\netcoreapp3.1\Upha.Services.csproj.CopyComplete
+C:\Users\PedroMigueldelaCruzC\Desktop\Claro\Escuelita\Upha.Services\obj\Debug\netcoreapp3.1\Upha.Services.dll
+C:\Users\PedroMigueldelaCruzC\Desktop\Claro\Escuelita\Upha.Services\obj\Debug\netcoreapp3.1\Upha.Services.pdb
